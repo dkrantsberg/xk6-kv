@@ -6,7 +6,7 @@ require (
 	github.com/grafana/sobek v0.0.0-20240607083612-4f0cd64f4e78
 	github.com/stretchr/testify v1.9.0
 	go.etcd.io/bbolt v1.3.7
-	go.k6.io/k6 v0.51.1-0.20240610082146-1f01a9bc2365
+	go.k6.io/k6 v0.53.0
 )
 
 require (
